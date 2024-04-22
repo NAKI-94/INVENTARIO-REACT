@@ -1,0 +1,21 @@
+.input{
+padding: 1.2rem 2.1rem;
+margin: 0;
+border: none;
+outline: none;
+background: #dfe4e4;
+border-radius: 1rem;
+font-weight: 600;
+font-size: 1.25rem;
+text-align: center;
+transition: 0.3s;
+width: 80%;
+float: left;
+}
+
+.input:focus{
+    background: #575151;
+}
+.input:hover{
+    background: #575151;
+}
